@@ -3,3 +3,4 @@ const element2=React.createElement("h2",{},"bokula malllesh");
 const div=React.createElement("div",{},[element,element2]);
 const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(div);
+const x=10;
