@@ -8,3 +8,4 @@ const cat={
     languange:"meo meo",
     occupation:"searching food"
 }
+console.log(cat.languange)
