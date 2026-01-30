@@ -5,3 +5,8 @@ const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(div);
 const x=10;
 const name="suman";
+const catbhai={
+    name:"meonagar",
+    languange:"meo meo",
+    
+}
