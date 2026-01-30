@@ -4,3 +4,4 @@ const div=React.createElement("div",{},[element,element2]);
 const root=ReactDOM.createRoot(document.getElementById("root"));
 root.render(div);
 const x=10;
+const name="suman";
