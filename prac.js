@@ -9,3 +9,4 @@ const cat={
     occupation:"searching food"
 }
 console.log(cat.languange)
+console.log("hello")
