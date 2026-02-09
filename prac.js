@@ -10,3 +10,4 @@ const cat={
 }
 console.log(cat.languange)
 console.log("hello")
+console.log("koi bath nahi")
